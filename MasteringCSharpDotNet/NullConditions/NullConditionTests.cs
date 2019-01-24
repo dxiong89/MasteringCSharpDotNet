@@ -1,10 +1,10 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MasteringCSharpDotNet
+namespace MasteringCSharpDotNet.NullConditions
 {
     [TestClass]
-    public class UnitTest1
+    public class NullConditionTests
     {
         [TestMethod]
         public void TestMethod1()

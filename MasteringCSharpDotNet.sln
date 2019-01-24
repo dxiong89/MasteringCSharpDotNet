@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasteringCSharpDotNet", "MasteringCSharpDotNet\MasteringCSharpDotNet.csproj", "{037196AC-E44C-435C-BDC0-73D5BD901991}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCO", "POCO\POCO.csproj", "{7A7320D0-31B8-47CA-AE25-F521C9F1E945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockRepository", "MockRepository\MockRepository.csproj", "{A5581BB0-10E6-43E7-8DC2-3994738E17BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{037196AC-E44C-435C-BDC0-73D5BD901991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{037196AC-E44C-435C-BDC0-73D5BD901991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{037196AC-E44C-435C-BDC0-73D5BD901991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7320D0-31B8-47CA-AE25-F521C9F1E945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7320D0-31B8-47CA-AE25-F521C9F1E945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7320D0-31B8-47CA-AE25-F521C9F1E945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7320D0-31B8-47CA-AE25-F521C9F1E945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5581BB0-10E6-43E7-8DC2-3994738E17BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5581BB0-10E6-43E7-8DC2-3994738E17BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5581BB0-10E6-43E7-8DC2-3994738E17BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5581BB0-10E6-43E7-8DC2-3994738E17BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
