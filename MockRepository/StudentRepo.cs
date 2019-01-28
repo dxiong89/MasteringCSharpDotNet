@@ -22,7 +22,7 @@ namespace MockRepository
             };
         }
 
-        public IEnumerable<Student> GetStudents()
+        public List<Student> GetStudents()
         {
             //object initializer
             return new List<Student>() {

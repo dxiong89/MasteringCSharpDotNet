@@ -10,6 +10,6 @@ namespace MockRepository.Interface
     public interface IStudentRepo
     {
         Student GetStudent();
-        IEnumerable<Student> GetStudents();
+        List<Student> GetStudents();
     }
 }
